@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Fasthand&family=Roboto+Condensed:wght@300&display=swap");
+
+body {
+  /* background-color: rgb(208, 213, 209); */
+  background: linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%);
+  font-family: "Fasthand", cursive;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.text2 {
+  color: rgb(213, 234, 238);
+  font-size: 40px;
+  text-align: center;
+}
+/* .input {
+  width: 80.5%;
+} */
+
+.create {
+  /* background-color: #f39c12; */
+  background-color: white;
+  border: none;
+  color: black;
+  width: 150px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin-left: 50px;
+  margin: 0 auto;
+  /* width: 150px;
+  background-color: #f39c12;
+  border: 1px solid black;
+  color: white;
+  padding: 0.3rem 3rem;
+  border-radius: 0.3rem;
+  font-weight: 400;
+   margin: 0 auto; 
+}
+/* .create:hover{
+    border: 3px solid black;
+} */
+}
+.create:hover {
+  background-color: rgb(24, 181, 209);
+  color: white;
+  /* border: 1px solid rgb(227, 212, 212); */
+  transition: all 0.5s;
+}
+
+.input {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
